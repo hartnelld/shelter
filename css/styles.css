@@ -6,17 +6,30 @@ body {
   text-align: center;
   margin: auto;
   width: 60%;
-  border: 2px solid;
   background-color: #F0F0F0;
 }
 
 .adoption {
   margin: auto;
   width: 60%;
-  border: 2px solid;
   background-color: #F0F0F0;
 }
 
+.adoption p {
+  padding: 10px;
+}
+
+.header h1, p {
+  padding: 10px;
+}
+
 .adoption img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   width: 50%;
+}
+
+h3 {
+  color: red;
 }
