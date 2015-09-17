@@ -1,0 +1,22 @@
+body {
+  background-color: #B0B0B0;
+}
+
+.header {
+  text-align: center;
+  margin: auto;
+  width: 60%;
+  border: 2px solid;
+  background-color: #F0F0F0;
+}
+
+.adoption {
+  margin: auto;
+  width: 60%;
+  border: 2px solid;
+  background-color: #F0F0F0;
+}
+
+.adoption img {
+  width: 50%;
+}
